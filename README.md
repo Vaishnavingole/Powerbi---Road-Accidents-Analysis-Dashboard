@@ -9,13 +9,13 @@
 This project is aimed at developing a Power BI Dashboard for generating insights about road accident data in the United Kingdom. The goal is to help stakeholders understand accident trends, identify high-risk areas, and improve road safety measures.
 
 ### Dashboard Requirements
-Primary KPI's - Total Casualties and Total Accident values for Current Year and YoY Growth
-Primary KPI's - Total Casualties by Accident Severity for Current Year and YoY Growth
-Secondary KPI's - Total Casualties with respect to Vehicle Type for Current Year
-Monthly Trend showing comparison of Casualties for Current Year and Previous Year
-Casualties by Road Type for Current Year
-Current Year Casualties by Area/Location & Day/Night
-Total Casualties and Total Accident by Location
+- Primary KPI's - Total Casualties and Total Accident values for Current Year and YoY Growth
+- Primary KPI's - Total Casualties by Accident Severity for Current Year and YoY Growth
+- Secondary KPI's - Total Casualties with respect to Vehicle Type for Current Year
+- Monthly Trend showing comparison of Casualties for Current Year and Previous Year
+- Casualties by Road Type for Current Year
+- Current Year Casualties by Area/Location & Day/Night
+- Total Casualties and Total Accident by Location
 
 ### DAX Formulas Used in Measures
 1. Total Casualties For Current Year and Year on Year Growth
